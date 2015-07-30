@@ -1,0 +1,1 @@
+INSERT INTO local_role(local_role_name) VALUES ('admin'), ('user');

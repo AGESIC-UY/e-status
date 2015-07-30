@@ -1,0 +1,16 @@
+#chart {
+	background-color:#EAEAEA;
+	min-width: 310px; 
+	height: 400px; 
+	margin: 0 auto;
+	clear: both;
+}
+#table-container{
+	max-height: 40vh;
+}
+#table-container-container {
+	margin-bottom: 25px
+}
+div.left-panel table {
+	width: 350px;
+}
