@@ -1,4 +1,4 @@
-# e-status [Sin Mantenimiento]  
+
 <!DOCTYPE html>
 <html>
 	<head>
