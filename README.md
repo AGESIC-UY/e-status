@@ -15,7 +15,6 @@
 				font-family: monospace;
 			}
 		</style>
-		
 	</head>
 	<body>
 		<h1>Instalación y configuración de e-status</h1>
