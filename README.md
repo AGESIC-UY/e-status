@@ -1,19 +1,8 @@
+# e-status [Sin Mantenimiento]  
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Instalación y configuración de e-status</title>
-		<meta charset="UTF-8">
-		<style>
-			td, th {
-				border: 1px solid black;
-			}
-			table {
-				border-collapse: collapse;
-			}
-			.code {
-				font-family: monospace;
-			}
-		</style>
+		
 	</head>
 	<body>
 		<h1>Instalación y configuración de e-status</h1>
