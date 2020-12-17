@@ -1,4 +1,4 @@
-# e-status [Sin Mantenimiento]
+# e-status [DISCONTINUADO]
 <!DOCTYPE html>
 <html>
 	<head>
